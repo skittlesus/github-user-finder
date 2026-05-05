@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-favorites.json
-.DS_Store
-venv/
-env/
-.vscode/
-.idea/
-*.log
